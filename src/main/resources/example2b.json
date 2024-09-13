@@ -1,0 +1,12 @@
+{
+  "shapeType" : "CIRCLE",
+  "color" : "medium lime",
+  "fillColor" : "05A3F4FF",
+  "lineWidth" : 1,
+  "posX" : 2,
+  "posY" : 7,
+  "scaleX" : 9,
+  "scaleY" : 22,
+  "rotation" : 1,
+  "tags" : [ "limey", "favorite color", "favorite shape" ]
+}

@@ -1,0 +1,12 @@
+{
+  "shapeType_one_of_three" : "CIRCLE",
+  "color" : "trans glitter clear",
+  "fillColor" : "0B35A422",
+  "lineWidth" : 4,
+  "posX" : 7,
+  "posY" : 10,
+  "scaleX" : 7,
+  "scaleY" : 6,
+  "rotation" : 14,
+  "tagSet" : [ "transparent clear" ]
+}

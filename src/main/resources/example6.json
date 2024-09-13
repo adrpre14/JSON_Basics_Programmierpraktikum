@@ -1,0 +1,13 @@
+{
+  "shapeType" : "CIRCLE",
+  "color" : "medium stone gray",
+  "fillColor" : "4898BAFF",
+  "lineWidth" : 4,
+  "posX" : 100,
+  "posY" : 100,
+  "scaleX" : 2,
+  "scaleY" : -1,
+  "rotation" : 5,
+  "tags" : [ "tag1", "tag2", "tag3", "tag4", "bald steht der Compiler vor der Tuer" ],
+  "hidden" : true
+}

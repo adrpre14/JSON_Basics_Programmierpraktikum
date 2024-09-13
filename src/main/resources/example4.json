@@ -1,0 +1,12 @@
+{
+  "shapeType" : "QUAD",
+  "color" : "light blueish gray",
+  "fillColor" : "00AAFFFF",
+  "lineWidth" : 2,
+  "posX" : 5,
+  "posY" : 6,
+  "scaleX" : 10,
+  "scaleY" : 9,
+  "rotation" : 13,
+  "tags" : [ "another gray one", "stuff" ]
+}

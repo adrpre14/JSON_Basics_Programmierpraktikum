@@ -1,0 +1,12 @@
+{
+  "shapeType" : "TRIANGLE",
+  "color" : "light yellow",
+  "fillColor" : "00AAFFFF",
+  "lineWidth" : 2,
+  "posX" : 4,
+  "posY" : 8,
+  "scaleX" : 16,
+  "scaleY" : 32,
+  "rotation" : 64,
+  "tags" : [ "cheesy", "close to 0" ]
+}
